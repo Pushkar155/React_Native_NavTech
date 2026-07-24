@@ -102,13 +102,13 @@ src
 │   ├── CommonSelect.tsx
 │   ├── ConfirmDialog.tsx
 │   └── ShoeCard.tsx
+│   └──admin/                      # Admin-specific modules
+│       ├── modals/
+│       │   └── AddOrEditProductModal.tsx
+│       │
+│       └── schema/
+│           └── schema.ts          # Zod validation schema
 │
-├── admin/                      # Admin-specific modules
-│   ├── modals/
-│   │   └── AddOrEditProductModal.tsx
-│   │
-│   └── schema/
-│       └── schema.ts          # Zod validation schema
 │
 ├── constants/                  # App constants
 │
