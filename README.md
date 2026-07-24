@@ -128,6 +128,10 @@ src
 
 ---
 
+# 📹 Vedio Demo
+
+https://ik.imagekit.io/pushkar10/WhatsApp%20Video%202026-07-24%20at%203.19.18%20PM.mp4
+
 # 📷 Screenshots
 
 ## Home
